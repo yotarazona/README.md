@@ -10,4 +10,13 @@ I studied a master in Remote Sensing and GIS at the Autonomous University of Bar
 - Artificial Inteligence for Land Cover Analysis
 - Tools for Remote Sensing
 
+## Open-source software development
+
+- **Python Package**: A Python package for Remote Sensing Tools
+ 	[scikit-eo](https://github.com/yotarazona/scikit-eo)
+- **Python Package**: Tools for detecting deforestation and forest degradation
+ 	forestools (https://github.com/ytarazona/forestools)
+- **R Package**: Remote Sensing Tools for Forest Monitoring
+ 	ForesToolboxRS (https://github.com/ytarazona/ForesToolboxRS)
+
 
