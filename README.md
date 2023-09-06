@@ -4,8 +4,7 @@ I studied a master in Remote Sensing and GIS at the Autonomous University of Bar
 
 ## Research areas
 
-- Vegetation mapping
-- Forest disturbance mapping with time series
+- Vegetation mapping and forest disturbance mapping with time series
 - Microwave and Optical Satellite Remote Sensing
 - Artificial Inteligence for Land Cover Analysis
 - Tools for Remote Sensing
@@ -15,8 +14,8 @@ I studied a master in Remote Sensing and GIS at the Autonomous University of Bar
 - **Python Package**: A Python package for Remote Sensing Tools
  	[scikit-eo](https://github.com/yotarazona/scikit-eo)
 - **Python Package**: Tools for detecting deforestation and forest degradation
- 	forestools (https://github.com/ytarazona/forestools)
+ 	[forestools](https://github.com/ytarazona/forestools)
 - **R Package**: Remote Sensing Tools for Forest Monitoring
- 	ForesToolboxRS (https://github.com/ytarazona/ForesToolboxRS)
+ 	[ForesToolboxRS](https://github.com/ytarazona/ForesToolboxRS)
 
 
