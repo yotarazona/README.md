@@ -5,13 +5,13 @@
 [![CV Badge](https://img.shields.io/badge/My-Curriculum-green)]()
 [![ORCID Badge](https://img.shields.io/badge/ORCID-ID-blue)](https://orcid.org/0000-0002-5208-1004)
 
-I am a PhD student at the University of Coimbra, Portugal. My PhD project: "Investigating the Atmospheric Impact of Disturbances in Land Cover: A Study of Precipitation and Temperature Changes in post-fire landscapes." 
+I am a PhD student at the University of Coimbra, Portugal. My PhD project: "*Investigating the Atmospheric Impact of Disturbances in Land Cover: A Study of Precipitation and Temperature Changes in post-fire landscapes*." 
 
 Since my undergraduate studies, I have shown great interest in two aspects: i) numbers, and ii) how space technology through Remote Sensing is able to record information from the earth's surface. Radar remote sensing fanatic! :grimacing:.
 
 ## Research areas
 
-- Vegetation mapping and forest disturbance mapping with time series
+- Vegetation and forest disturbance mapping
 - Atmospheric Impact of Disturbances in Land Cover
 - Microwave and Optical Satellite Remote Sensing
 - Artificial Inteligence for Land Cover Analysis
